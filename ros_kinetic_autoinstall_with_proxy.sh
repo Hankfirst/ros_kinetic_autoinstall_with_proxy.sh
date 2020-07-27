@@ -1,6 +1,4 @@
 #!/bin/bash
-# Apache License 2.0
-# Copyright (c) 2017, ROBOTIS CO., LTD.
 
 echo ""
 echo "[Note] Target OS version  >>> Ubuntu 16.04.x (xenial) or Linux Mint 18.x"
